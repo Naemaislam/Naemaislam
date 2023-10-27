@@ -1,7 +1,9 @@
                                                             ### Welcome to, NAEMA ISLAM TAMANNA Profile!
                                                                     #### Web Developer
 
-<img src="https://cdn.dribbble.com/users/1668950/screenshots/3863114/rodoshi.gif" jsaction="VQAsE" class="sFlh5c pT0Scc iPVvYb" style="max-width: 800px; height: 285px; margin: 0px; width: 380px;" alt="The girl and her laptop by Saquib Sarwar on Dribbble" jsname="kn3ccd" data-iml="73348.10000002384">
+                                            <img src="https://cdn.dribbble.com/users/1668950/screenshots/3863114/rodoshi.gif" jsaction="VQAsE" class="sFlh5c pT0Scc iPVvYb" style="max- 
+                            width: 800px; height: 285px; margin: 0px; width: 380px,text-center;" alt="The girl and her laptop by Saquib Sarwar on Dribbble" jsname="kn3ccd" data- 
+                                                                  iml="73348.10000002384">
 
 
 
