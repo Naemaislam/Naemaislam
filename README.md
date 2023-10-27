@@ -1,7 +1,7 @@
 ### Hi there 👋, NAEMA ISLAM TAMANNA
 #### Web Developer
 
-https://www.google.com/url?sa=i&url=https%3A%2F%2Fdribbble.com%2Fshots%2F3863114-The-girl-and-her-laptop&psig=AOvVaw0uj-Nojg18jeeHoeJEAf17&ust=1698509706206000&source=images&cd=vfe&opi=89978449&ved=0CBEQjRxqFwoTCMDt9_DPloIDFQAAAAAdAAAAABAF
+<img src="https://cdn.dribbble.com/users/1668950/screenshots/3863114/rodoshi.gif" jsaction="VQAsE" class="sFlh5c pT0Scc iPVvYb" style="max-width: 800px; height: 285px; margin: 0px; width: 380px;" alt="The girl and her laptop by Saquib Sarwar on Dribbble" jsname="kn3ccd" data-iml="73348.10000002384">
 
 
 I am a dedicated and passionate learner in the field of coding.Trained in php and laravel at Creative It Institute.
